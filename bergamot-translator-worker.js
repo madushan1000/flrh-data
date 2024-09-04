@@ -1,4 +1,4 @@
-var BERGAMOT_VERSION_FULL = "v0.4.5+321be8a";
+var BERGAMOT_VERSION_FULL = "v0.4.5+05a8778";
 null;
 
 var Module = typeof Module != "undefined" ? Module : {};
